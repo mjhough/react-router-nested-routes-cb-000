@@ -3,7 +3,7 @@ class MoviesShow extends Component {
   render(){
     return(
       <div>
-        Movies Show
+        <h3>Movies Show Component!</h3>
       </div>
     )
   }
